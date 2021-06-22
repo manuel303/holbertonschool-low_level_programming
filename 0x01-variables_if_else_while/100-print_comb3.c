@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - Prints combination of numbers
- *
+ * Description - Prints ascending orders with two digits
  * Return: Always (Success)
  */
 int main(void)
